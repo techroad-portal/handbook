@@ -6,6 +6,6 @@ It serves as a guide to the company's operation. Anyone can access the company's
 
 # General
 - Work Process
-  - [Goal, How to check project goal](https://www.notion.so/What-is-Product-Management-Board-ff6f5613248743b79818262d2caa0b83)
+  - [Goal, Where can check project goal](https://www.notion.so/What-is-Product-Management-Board-ff6f5613248743b79818262d2caa0b83)
   - Communication
 
