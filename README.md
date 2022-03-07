@@ -5,11 +5,7 @@ It serves as a guide to the company's operation. Anyone can access the company's
 - Introduction Company
 
 # General
-- General
-  - Purpose 
-  - Value
-
 - Work Process
-  - [Goal](https://www.notion.so/What-is-Product-Management-Board-ff6f5613248743b79818262d2caa0b83)
+  - [Goal, How to check project goal](https://www.notion.so/What-is-Product-Management-Board-ff6f5613248743b79818262d2caa0b83)
   - Communication
 
