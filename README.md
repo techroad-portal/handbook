@@ -9,5 +9,7 @@ It serves as a guide to the company's operation. Anyone can access the company's
   - Purpose 
   - Value
 
-## Work Process
+- Work Process
+  - [Goal](https://www.notion.so/What-is-Product-Management-Board-ff6f5613248743b79818262d2caa0b83)
+  - Communication
 
