@@ -6,8 +6,8 @@ It serves as a guide to the company's operation. Anyone can access the company's
 
 # General
 * General
- * Purpose 
- * Value
+  * Purpose 
+  * Value
 
 ## Work Process
 
