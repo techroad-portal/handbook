@@ -5,9 +5,9 @@ It serves as a guide to the company's operation. Anyone can access the company's
 - Introduction Company
 
 # General
-## General
-## Purpose 
-## Value
+- General
+-- Purpose 
+-- Value
 
 ## Work Process
 
